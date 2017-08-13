@@ -1,0 +1,42 @@
+html {
+    position: relative;
+    min-height: 100%;
+    font-family: "Trebuchet MS", "Lucida Grande";
+}
+
+body {
+    text-align: center;
+    margin: 0 0 75px; /* bottom = footer height */
+    padding: 25px;
+}
+
+#body-wrapper {
+    width: auto;
+    height: auto;
+}
+
+h1 { 
+    font-size: 100px;
+    color: black;
+}
+
+#color-name {
+    font-style:italic;
+    font-size: 70px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 75px;
+    width: 100%;
+    overflow:hidden;
+}
+
+footer, p {
+    padding: 10px 0px;
+}
