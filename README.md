@@ -1,6 +1,6 @@
 # Color
 A simple website that generates random colors and gives their names when the user presses 'c'. 
-Check it out in https://dylanoshima.github.io/color/!
+Check it out in https://dylanoshima.github.io/Color/!
 
 I used a small library made by <b>Chirag Mehta</b> to get the color names. 
 This is one of my practice sites so I can work on my JavaScript. 
